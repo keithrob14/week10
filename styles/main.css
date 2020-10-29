@@ -7,3 +7,18 @@ button.position-absolute {
 header{
     background-color: darkkhaki;
 }
+
+
+/* CSS for Contact Page */
+
+form{
+    padding-left: 1em;
+}
+
+form div p{
+    padding-left: 0;
+}
+
+
+
+/* End CSS for Contact Page */
